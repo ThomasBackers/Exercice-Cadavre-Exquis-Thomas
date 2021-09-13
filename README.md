@@ -12,3 +12,8 @@ Lors du combat entre la babel et Gérard, Babel lui lance ses Nunchaku ceux-ci r
 
 Gérard n'était un canard pas comme les autres, il était orphelin. Sa famille eu un accident dramatique lorsque Gérard était caneton.
 C'est d'ailleurs pour cela qu'il était débrouillard. Gérard aimait épater ses copains, il était toujours à la recherche de nouveautés afin d'en apprendre un peu plus chaque jour.
+
+## Le Retour de Gérard 
+
+Gérard le débrouillard devait trouver le chemin illuminant de BeCode et pour cela il a trouvé son nouveau copain 'Git' 
+qui lui expliqua la route push ou il séjourne paisiblement dans une grande famille de canards.
