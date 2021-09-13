@@ -17,3 +17,9 @@ C'est d'ailleurs pour cela qu'il était débrouillard. Gérard aimait épater se
 
 Gérard le débrouillard devait trouver le chemin illuminant de BeCode et pour cela il a trouvé son nouveau copain 'Git' 
 qui lui expliqua la route push ou il séjourne paisiblement dans une grande famille de canards.
+
+## Fin du séjour paisible
+
+Gérard coulait des jours heureux.
+Il vivait dans une mare.
+Jusqu'au jour où git vint et mit un "bash" sur la mare.
